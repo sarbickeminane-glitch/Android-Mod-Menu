@@ -14,7 +14,7 @@ Support Android 4.4.x up to Android 16. ARMv7 and ARM64 are supported.
 
 # Getting started
  
-See "Docs" folder
+See "Docs" 
 
 # Need help
 
